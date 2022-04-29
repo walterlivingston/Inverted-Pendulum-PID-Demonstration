@@ -1,0 +1,6 @@
+[My Computer]
+My Computer = "172.22.11.1"
+
+[myRIO-IP]
+myRIO-IP = "172.22.11.2"
+
